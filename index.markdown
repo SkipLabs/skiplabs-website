@@ -2,6 +2,6 @@
 layout: page
 ---
 
-SkipLabs is the reactive programming company.
+SkipLabs is the reactive systems company.
 
 We are [hiring](mailto:hiring@skiplabs.io)!

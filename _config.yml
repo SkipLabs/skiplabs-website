@@ -21,7 +21,7 @@
 title: SkipLabs
 email: contact@skiplabs.io
 description: >- # this means to ignore newlines until "baseurl:"
-  The reactive programming company.
+  The reactive systems company.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://skiplabs.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: skiplabs
